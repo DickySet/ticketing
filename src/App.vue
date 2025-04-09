@@ -1,6 +1,6 @@
 <template>
   <k-app theme="ios" :dark="false">
-    <k-page class="p-0 m-0 !pt-0 !pb-0 !px-0 min-h-screen">
+    <k-page class="h-[100dvh]">
       <NavbarMenu />
 
       <router-view></router-view>
