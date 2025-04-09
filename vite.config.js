@@ -15,8 +15,9 @@ export default defineConfig({
       base: "/",
       includeAssets: ["favicon.svg"],
       manifest: {
-        name: "JakClean",
-        short_name: "JakClean",
+        name: "Ticketing",
+        short_name: "Ticketing",
+        theme_color: "#ffffff",
         display: "standalone",
         orientation: "portrait",
         icons: [
